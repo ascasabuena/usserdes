@@ -589,7 +589,7 @@ The passage is all about an invitation to Alexandra and Robert’s after-dinner 
 3.	Create your own design/version of the passage.<br>
 Feel free to use any application; power point, paint, photoshop, and any other online tools.<br>
 
-<img src="images/a7-1.PNG" class="media-object" style="width:300px">
+<img src="images/a7-1.png" class="media-object" style="width:300px">
 
 </p>	
 									        </div>
@@ -610,9 +610,9 @@ Feel free to use any application; power point, paint, photoshop, and any other o
 									            	A PART 1
 									            	<img src="images/a8-2.jpg" class="media-object" style="width:300px">
 									            	A PART 2
-									            	<img src="images/b8-1.PNG" class="media-object" style="width:300px">
+									            	<img src="images/b8-1.png" class="media-object" style="width:300px">
 									            	B PART 1
-									            	<img src="images/b8-2.PNG" class="media-object" style="width:300px">
+									            	<img src="images/b8-2.png" class="media-object" style="width:300px">
 									            	B PART 2
 									            </p>	
 									        </div>
@@ -629,18 +629,18 @@ Feel free to use any application; power point, paint, photoshop, and any other o
 									    <div id="collapseNine" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingNine">
 									        <div class="panel-body">
 									            <p>
-									            	<img src="images/a9 (1).PNG" class="media-object" style="width:300px">
-									            	<img src="images/a9 (2).PNG" class="media-object" style="width:300px">
-									            	<img src="images/a9 (3).PNG" class="media-object" style="width:300px">
-									            	<img src="images/a9 (4).PNG" class="media-object" style="width:300px">
-									            	<img src="images/a9 (5).PNG" class="media-object" style="width:300px">
-									            	<img src="images/a9 (6).PNG" class="media-object" style="width:300px">
-									            	<img src="images/a9 (7).PNG" class="media-object" style="width:300px">
-									            	<img src="images/a9 (8).PNG" class="media-object" style="width:300px">
-									            	<img src="images/a9 (9).PNG" class="media-object" style="width:300px">
-									            	<img src="images/a9 (10).PNG" class="media-object" style="width:300px">
-									            	<img src="images/a9 (11).PNG" class="media-object" style="width:300px">
-									            	<img src="images/a9 (12).PNG" class="media-object" style="width:300px">
+									            	<img src="images/a9 (1).png" class="media-object" style="width:300px">
+									            	<img src="images/a9 (2).png" class="media-object" style="width:300px">
+									            	<img src="images/a9 (3).png" class="media-object" style="width:300px">
+									            	<img src="images/a9 (4).png" class="media-object" style="width:300px">
+									            	<img src="images/a9 (5).png" class="media-object" style="width:300px">
+									            	<img src="images/a9 (6).png" class="media-object" style="width:300px">
+									            	<img src="images/a9 (7).png" class="media-object" style="width:300px">
+									            	<img src="images/a9 (8).png" class="media-object" style="width:300px">
+									            	<img src="images/a9 (9).png" class="media-object" style="width:300px">
+									            	<img src="images/a9 (10).png" class="media-object" style="width:300px">
+									            	<img src="images/a9 (11).png" class="media-object" style="width:300px">
+									            	<img src="images/a9 (12).png" class="media-object" style="width:300px">
 
 									            	
 

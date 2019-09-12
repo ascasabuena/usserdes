@@ -89,7 +89,7 @@
 			<section id="colorlib-hero" class="js-fullheight" data-section="home">
 				<div class="flexslider js-fullheight">
 					<ul class="slides">
-				   	<li style="background-image: url(images/img_bg_1.png);">
+				   	<li style="background-image: url(images/img_bg_1.PNG);">
 				   		<div class="overlay"></div>
 				   		<div class="container-fluid">
 				   			<div class="row">
@@ -345,13 +345,13 @@ For the prof, when we discussed lesson I’m expecting her to give us time to do
 									            <p>
 For my favorite apps, Mostly, it is mobile apps since they can be access easily and I used them on a daily basis unlike computer applications which takes time before you can open. Also, phone applications can do whatever in the computer counterpart of it. The following apps is chosen based on how it keeps me engage, catch my attention because of interface, easy use, accuracy and reliability.
 <br><br>
-<img src="images/a2-laplace-name.png" class="media-object" style="width:100px">
+<img src="images/a2-laplace-name.PNG" class="media-object" style="width:100px">
 <strong>Laplace</strong><br>
  Laplace is a role-playing game that I play since February. I tried playing it since it’s a new game and I have the idea that all players will be starting from zero, unlike any other well-known game where you have to start from zero while everyone is at lv.100 that makes me unmotivated to play. What I like about Laplace and the keep me playing is really the graphics. As a person that is into art, I’m very sensitive with the use of colors and design, that Laplace satisfy. It kept me interested to wander in their maps and to discover a lot of things that they release because of how amazing it looks. 
  <img src="images/a2-laplace-1.jpg" class="media-object" style="width:300px">
  <img src="images/a2-laplace-2.jpg" class="media-object" style="width:300px">
 <br><br>
-<img src="images/a2-line-name.png" class="media-object" style="width:100px">
+<img src="images/a2-line-name.PNG" class="media-object" style="width:100px">
 <strong>Line</strong><br>
 Line became my favorite communication platform when I played Laplace. Since Laplace and other online game have different players internationally I have to adjust with their way of communication and line have a feature where you can invite a translator inside the chat to translate everything automatically, but this is not working properly for every language. I use line to communicate with other players and also to hide my identity and personal information. One thing a hate about line is this app is not free, even their stickers for chat. But compared to messenger stickers, line stickers are more pleasing for me and there is a variety. Line app also have a wall where you can share videos and photos. It’s like a Facebook and messenger in one.
 <img src="images/a2-line-1.jpg" class="media-object" style="width:200px">  
@@ -365,12 +365,12 @@ Sometimes I’m into other languages and watching and talking to friends is what
 <strong>Autodesk sketchbook app</strong><br>
 Since I like art, I look for an app that is not bulky for my storage. For an art app, I’m looking for Adobe quality app but not as big as Adobe and not as complicated as it is. Searching through social media, I saw that most people in the famous artist group use this Autodesk sketch app, which does not require a lot like smart pen and big memories. When I first tried Autodesk, it takes me a whole day to familiarize everything and get used to the tools but I still consider it an easy app because I don’t have to watch any video just to understand how to use the app. About quality, Autodesk sketch app is good in quality since you can do whatever you can do with your imagination and you don’t have to pay anything for it. Also, it renders fast and has no error at all so the effort and time spent are all worth it. Autodesk is a trusted app for me because it always saves your work and you don’t have to worry for sudden shutting of app.  
 <br><br>
-<img src="images/a2-mypass-name.png" class="media-object" style="width:100px">
+<img src="images/a2-mypass-name.PNG" class="media-object" style="width:100px">
 <strong>My Passwords</strong><br>
 The app My Passwords, is a recent favorite app of mine. My passwords is for saving different passwords for my account. What I like about this app is its easy to use and to understand. When you open the open you can see right away where to add your certain account and fill out information like account, username, password and notes*. It gives me a list of all my account right away when I open the app so its easy to navigate and to search for my app. It also has an encryption and you cannot screenshot anything inside the app so I can say that it’s a secured app for my accounts.
-<img src="images/a2-mypass-1.png" class="media-object" style="width:200px"> 
+<img src="images/a2-mypass-1.PNG" class="media-object" style="width:200px"> 
 <br><br>
-<img src="images/a2-googleapps-name.png" class="media-object" style="width:100px">
+<img src="images/a2-googleapps-name.PNG" class="media-object" style="width:100px">
 <strong>Google apps</strong><br>
 Since I’m a android user, google applications are a must. But besides that, I prefer to use google apps over any similar apps because it is reliable in the sense that it will give you a result which is accurate and used by everybody. Google apps also helps me with formal transactions and conersation like gmail that I used whenever I buy something or when I talk to someone important for formal matters. For searching informations and used google search for informations since it is up-to-date and google maps for street and road instructions. I also like the google photos. Although I don’t use it as a main photo app, it is very helpful for automatic backup of photos in my phone so in case I lost my phone I can still retrieve my photos and all other settings because of google. 
 <img src="images/a2-googleapps-1.jpg" class="media-object" style="width:200px">
@@ -397,10 +397,10 @@ With this design, we wanted to make sure that users will feel safe, clean, relax
 <br><br>
 <strong>Pictures:</strong></p>
 <div class="mt-5" align="center">
-<img src="images/a3-1.png" class="media-object" style="width:400px"><br>
-<img src="images/a3-2.png" class="media-object" style="width:400px"><br>
-<img src="images/a3-3.png" class="media-object" style="width:400px"><br>
-<img src="images/a3-4.png" class="media-object" style="width:400px"><br>
+<img src="images/a3-1.PNG" class="media-object" style="width:400px"><br>
+<img src="images/a3-2.PNG" class="media-object" style="width:400px"><br>
+<img src="images/a3-3.PNG" class="media-object" style="width:400px"><br>
+<img src="images/a3-4.PNG" class="media-object" style="width:400px"><br>
 </div>	
 									        </div>
 									    </div>
@@ -480,7 +480,7 @@ Other solution we suggest is to make a simple website or platform where people c
 
 <strong>SIGN-UP PAGE</strong><br><br>
 <div class="mt-5" align="center">
-<img src="images/a5-2.png" class="media-object" style="width:400px"><br>
+<img src="images/a5-2.PNG" class="media-object" style="width:400px"><br>
 </div>
 <strong>Input boxes:</strong><br>
 •	Full name / Organization name: To register, the user needs to provide full name (if for personal use) or Organization name (if for organizational use). <br>
@@ -589,7 +589,7 @@ The passage is all about an invitation to Alexandra and Robert’s after-dinner 
 3.	Create your own design/version of the passage.<br>
 Feel free to use any application; power point, paint, photoshop, and any other online tools.<br>
 
-<img src="images/a7-1.png" class="media-object" style="width:300px">
+<img src="images/a7-1.PNG" class="media-object" style="width:300px">
 
 </p>	
 									        </div>
@@ -610,9 +610,9 @@ Feel free to use any application; power point, paint, photoshop, and any other o
 									            	A PART 1
 									            	<img src="images/a8-2.jpg" class="media-object" style="width:300px">
 									            	A PART 2
-									            	<img src="images/b8-1.png" class="media-object" style="width:300px">
+									            	<img src="images/b8-1.PNG" class="media-object" style="width:300px">
 									            	B PART 1
-									            	<img src="images/b8-2.png" class="media-object" style="width:300px">
+									            	<img src="images/b8-2.PNG" class="media-object" style="width:300px">
 									            	B PART 2
 									            </p>	
 									        </div>
@@ -629,18 +629,18 @@ Feel free to use any application; power point, paint, photoshop, and any other o
 									    <div id="collapseNine" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingNine">
 									        <div class="panel-body">
 									            <p>
-									            	<img src="images/a9 (1).png" class="media-object" style="width:300px">
-									            	<img src="images/a9 (2).png" class="media-object" style="width:300px">
-									            	<img src="images/a9 (3).png" class="media-object" style="width:300px">
-									            	<img src="images/a9 (4).png" class="media-object" style="width:300px">
-									            	<img src="images/a9 (5).png" class="media-object" style="width:300px">
-									            	<img src="images/a9 (6).png" class="media-object" style="width:300px">
-									            	<img src="images/a9 (7).png" class="media-object" style="width:300px">
-									            	<img src="images/a9 (8).png" class="media-object" style="width:300px">
-									            	<img src="images/a9 (9).png" class="media-object" style="width:300px">
-									            	<img src="images/a9 (10).png" class="media-object" style="width:300px">
-									            	<img src="images/a9 (11).png" class="media-object" style="width:300px">
-									            	<img src="images/a9 (12).png" class="media-object" style="width:300px">
+									            	<img src="images/a9 (1).PNG" class="media-object" style="width:300px">
+									            	<img src="images/a9 (2).PNG" class="media-object" style="width:300px">
+									            	<img src="images/a9 (3).PNG" class="media-object" style="width:300px">
+									            	<img src="images/a9 (4).PNG" class="media-object" style="width:300px">
+									            	<img src="images/a9 (5).PNG" class="media-object" style="width:300px">
+									            	<img src="images/a9 (6).PNG" class="media-object" style="width:300px">
+									            	<img src="images/a9 (7).PNG" class="media-object" style="width:300px">
+									            	<img src="images/a9 (8).PNG" class="media-object" style="width:300px">
+									            	<img src="images/a9 (9).PNG" class="media-object" style="width:300px">
+									            	<img src="images/a9 (10).PNG" class="media-object" style="width:300px">
+									            	<img src="images/a9 (11).PNG" class="media-object" style="width:300px">
+									            	<img src="images/a9 (12).PNG" class="media-object" style="width:300px">
 
 									            	
 
@@ -930,55 +930,55 @@ thing is to have more lectures and consultations on the projects to avoid confus
 <h4>Midterm Presentation</h4>
 
 	<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
-		<div class="project"><img src="images/ppt/1.png" class="media-object" style="width:300px"></div>
+		<div class="project"><img src="images/ppt/1.PNG" class="media-object" style="width:300px"></div>
 	</div>
 
 	<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
-		<div class="project"><img src="images/ppt/2.png" class="media-object" style="width:300px"></div>
+		<div class="project"><img src="images/ppt/2.PNG" class="media-object" style="width:300px"></div>
 	</div>
 
 	<div class="col-md-6 animate-box" data-animate-effect="fadeInTop">
-		<div class="project"><img src="images/ppt/3.png" class="media-object" style="width:300px"></div>
+		<div class="project"><img src="images/ppt/3.PNG" class="media-object" style="width:300px"></div>
 	</div>
 
 	<div class="col-md-6 animate-box" data-animate-effect="fadeInBottom">
-		<div class="project"><img src="images/ppt/4.png" class="media-object" style="width:300px"></div>
+		<div class="project"><img src="images/ppt/4.PNG" class="media-object" style="width:300px"></div>
 	</div>
 
 	<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
-		<div class="project"><img src="images/ppt/5.png" class="media-object" style="width:300px"></div>
+		<div class="project"><img src="images/ppt/5.PNG" class="media-object" style="width:300px"></div>
 	</div>
 
 	<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
-		<div class="project"><img src="images/ppt/6.png" class="media-object" style="width:300px"></div>
+		<div class="project"><img src="images/ppt/6.PNG" class="media-object" style="width:300px"></div>
 	</div>
 
 	<div class="col-md-6 animate-box" data-animate-effect="fadeInTop">
-		<div class="project"><img src="images/ppt/7.png" class="media-object" style="width:300px"></div>
+		<div class="project"><img src="images/ppt/7.PNG" class="media-object" style="width:300px"></div>
 	</div>
 
 	<div class="col-md-6 animate-box" data-animate-effect="fadeInBottom">
-		<div class="project"><img src="images/ppt/8.png" class="media-object" style="width:300px"></div>
+		<div class="project"><img src="images/ppt/8.PNG" class="media-object" style="width:300px"></div>
 	</div>
 
 	<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
-		<div class="project"><img src="images/ppt/9.png" class="media-object" style="width:300px"></div>
+		<div class="project"><img src="images/ppt/9.PNG" class="media-object" style="width:300px"></div>
 	</div>
 
 	<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
-		<div class="project"><img src="images/ppt/10.png" class="media-object" style="width:300px"></div>
+		<div class="project"><img src="images/ppt/10.PNG" class="media-object" style="width:300px"></div>
 	</div>
 
 	<div class="col-md-6 animate-box" data-animate-effect="fadeInTop">
-		<div class="project" style="background-size: 300px "><img src="images/ppt/11.png" class="media-object" style="width:300px"></div>
+		<div class="project" style="background-size: 300px "><img src="images/ppt/11.PNG" class="media-object" style="width:300px"></div>
 	</div>
 
 	<div class="col-md-6 animate-box" data-animate-effect="fadeInBottom">
-		<div class="project" style="background-size: 300px"><img src="images/ppt/12.png" class="media-object" style="width:300px"></div>
+		<div class="project" style="background-size: 300px"><img src="images/ppt/12.PNG" class="media-object" style="width:300px"></div>
 	</div>
 
 	<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
-		<div class="project" style="background-size: 300px"><img src="images/ppt/13.png" class="media-object" style="width:300px"></div>
+		<div class="project" style="background-size: 300px"><img src="images/ppt/13.PNG" class="media-object" style="width:300px"></div>
 	</div>
 </div>
 
@@ -995,16 +995,16 @@ thing is to have more lectures and consultations on the projects to avoid confus
 					<div class="row">
 						<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
 							<h5>UX RELATED</h5>
-							<div class="project" style="background-image: url(images/learning/algorithms.png);"></div>
+							<div class="project" style="background-image: url(images/learning/algorithms.PNG);"></div>
 						</div>
 						
 						<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
 							<h5>PERSONAL CHOICE</h5>
-							<div class="project" style="background-image: url(images/learning/uxfoundations.png);"></div>
+							<div class="project" style="background-image: url(images/learning/uxfoundations.PNG);"></div>
 						</div>
 						
 						<div class="col-md-6 animate-box" data-animate-effect="fadeInTop">
-							<div class="project" style="background-image: url(images/learning/datastructures.png);"></div>
+							<div class="project" style="background-image: url(images/learning/datastructures.PNG);"></div>
 						</div>
 
 						<div class="col-md-6 animate-box" data-animate-effect="fadeInBottom">
@@ -1012,7 +1012,7 @@ thing is to have more lectures and consultations on the projects to avoid confus
 						</div>
 
 						<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
-							<div class="project" style="background-image: url(images/learning/javadevelopers.png);"></div>
+							<div class="project" style="background-image: url(images/learning/javadevelopers.PNG);"></div>
 						</div>
 						
 						<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
@@ -1020,7 +1020,7 @@ thing is to have more lectures and consultations on the projects to avoid confus
 						</div>
 						
 						<div class="col-md-6 animate-box" data-animate-effect="fadeInTop">
-							<div class="project" style="background-image: url(images/learning/learningpython.png);"></div>
+							<div class="project" style="background-image: url(images/learning/learningpython.PNG);"></div>
 						</div>
 
 						<div class="col-md-6 animate-box" data-animate-effect="fadeInBottom">
@@ -1028,7 +1028,7 @@ thing is to have more lectures and consultations on the projects to avoid confus
 						
 						</div>
 							<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
-							<div class="project" style="background-image: url(images/learning/sqlserver.png);"></div>
+							<div class="project" style="background-image: url(images/learning/sqlserver.PNG);"></div>
 						</div>
 
 						

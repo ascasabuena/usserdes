@@ -78,8 +78,8 @@
 
 				<a href="https://www.facebook.com/ascasabuena"><i class="icon-facebook2"></i></a>
 				<a href="https://twitter.com/wrareriroru"><i class="icon-twitter2"></i></a>
-				<a href="#"><i class="icon-instagram"></i></a>
-				<a href="#"><i class="icon-linkedin2"></i></a>
+				<a href="https://www.instagram.com/as.casa/"><i class="icon-instagram"></i></a>
+				<a href="https://www.linkedin.com/in/aliah-jezrine-casabuena-69698517a/"><i class="icon-linkedin2"></i></a>
 			
 			</div>
 
@@ -923,64 +923,97 @@ thing is to have more lectures and consultations on the projects to avoid confus
 </p>
 </ul>
 
-<div class="row">
+<div class="center" style="width: 800px">
+	<!--<div class="container" style="width: 800px">--> 
+  <div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+      <li data-target="#myCarousel" data-slide-to="1"></li>
+      <li data-target="#myCarousel" data-slide-to="2"></li>
+      <li data-target="#myCarousel" data-slide-to="3"></li>
+      <li data-target="#myCarousel" data-slide-to="4"></li>
+      <li data-target="#myCarousel" data-slide-to="5"></li>
+      <li data-target="#myCarousel" data-slide-to="6"></li>
+      <li data-target="#myCarousel" data-slide-to="7"></li>
+      <li data-target="#myCarousel" data-slide-to="8"></li>
+      <li data-target="#myCarousel" data-slide-to="9"></li>
+      <li data-target="#myCarousel" data-slide-to="10"></li>
+      <li data-target="#myCarousel" data-slide-to="11"></li>
+      <li data-target="#myCarousel" data-slide-to="12"></li>
+      <li data-target="#myCarousel" data-slide-to="13"></li>
+
+    </ol>
+
+    
+    <div class="carousel-inner">
+      <div class="item active">
+        <img src="images/ppt/1.PNG" style="width:100%;">
+      </div>
+
+      <div class="item">
+        <img src="images/ppt/2.PNG" style="width:100%;">
+      </div>
+    
+      <div class="item">
+        <img src="images/ppt/3.PNG" style="width:100%;">
+      </div>
+
+      <div class="item">
+        <img src="images/ppt/4.PNG" style="width:100%;">
+      </div>
+
+      <div class="item">
+        <img src="images/ppt/5.PNG"  style="width:100%;">
+      </div>
+
+      <div class="item">
+        <img src="images/ppt/6.PNG" style="width:100%;">
+      </div>
+
+      <div class="item">
+        <img src="images/ppt/7.PNG" style="width:100%;">
+      </div>
+
+      <div class="item">
+        <img src="images/ppt/8.PNG"  style="width:100%;">
+      </div>
+
+      <div class="item">
+        <img src="images/ppt/9.PNG" style="width:100%;">
+      </div>
+
+      <div class="item">
+        <img src="images/ppt/10.PNG" style="width:100%;">
+      </div>
+
+      <div class="item">
+        <img src="images/ppt/11.PNG" style="width:100%;">
+      </div>
+
+      <div class="item">
+        <img src="images/ppt/12.PNG"  style="width:100%;">
+      </div>
+
+      <div class="item">
+        <img src="images/ppt/13.PNG" style="width:100%;">
+      </div>
+
+
+    </div>
+
+    <!-- Left and right controls -->
+    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
 </div>
 
-<div class="row">
-<h4>Midterm Presentation</h4>
-
-	<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
-		<div class="project"><img src="images/ppt/1.PNG" class="media-object" style="width:300px"></div>
-	</div>
-
-	<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
-		<div class="project"><img src="images/ppt/2.PNG" class="media-object" style="width:300px"></div>
-	</div>
-
-	<div class="col-md-6 animate-box" data-animate-effect="fadeInTop">
-		<div class="project"><img src="images/ppt/3.PNG" class="media-object" style="width:300px"></div>
-	</div>
-
-	<div class="col-md-6 animate-box" data-animate-effect="fadeInBottom">
-		<div class="project"><img src="images/ppt/4.PNG" class="media-object" style="width:300px"></div>
-	</div>
-
-	<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
-		<div class="project"><img src="images/ppt/5.PNG" class="media-object" style="width:300px"></div>
-	</div>
-
-	<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
-		<div class="project"><img src="images/ppt/6.PNG" class="media-object" style="width:300px"></div>
-	</div>
-
-	<div class="col-md-6 animate-box" data-animate-effect="fadeInTop">
-		<div class="project"><img src="images/ppt/7.PNG" class="media-object" style="width:300px"></div>
-	</div>
-
-	<div class="col-md-6 animate-box" data-animate-effect="fadeInBottom">
-		<div class="project"><img src="images/ppt/8.PNG" class="media-object" style="width:300px"></div>
-	</div>
-
-	<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
-		<div class="project"><img src="images/ppt/9.PNG" class="media-object" style="width:300px"></div>
-	</div>
-
-	<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
-		<div class="project"><img src="images/ppt/10.PNG" class="media-object" style="width:300px"></div>
-	</div>
-
-	<div class="col-md-6 animate-box" data-animate-effect="fadeInTop">
-		<div class="project" style="background-size: 300px "><img src="images/ppt/11.PNG" class="media-object" style="width:300px"></div>
-	</div>
-
-	<div class="col-md-6 animate-box" data-animate-effect="fadeInBottom">
-		<div class="project" style="background-size: 300px"><img src="images/ppt/12.PNG" class="media-object" style="width:300px"></div>
-	</div>
-
-	<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
-		<div class="project" style="background-size: 300px"><img src="images/ppt/13.PNG" class="media-object" style="width:300px"></div>
-	</div>
-</div>
 
 			<section class="colorlib-work" data-section="learning">
 				<div class="colorlib-narrow-content">
@@ -991,46 +1024,103 @@ thing is to have more lectures and consultations on the projects to avoid confus
 						</div>
 					</div>
 					
+<div class="row" style="width: 850px">
+<div class="col-md-6 animate-box" style="width: 50%">
+	<h3>5 Personal Choice</h3>
 					
-					<div class="row">
-						<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
-							<h5>UX RELATED</h5>
-							<div class="project" style="background-image: url(images/learning/algorithms.PNG);"></div>
-						</div>
-						
-						<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
-							<h5>PERSONAL CHOICE</h5>
-							<div class="project" style="background-image: url(images/learning/uxfoundations.PNG);"></div>
-						</div>
-						
-						<div class="col-md-6 animate-box" data-animate-effect="fadeInTop">
-							<div class="project" style="background-image: url(images/learning/datastructures.PNG);"></div>
-						</div>
+<div id="myCarousel2" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+      <li data-target="#myCarousel2" data-slide-to="0" class="active"></li>
+      <li data-target="#myCarousel2" data-slide-to="1"></li>
+      <li data-target="#myCarousel2" data-slide-to="2"></li>
+      <li data-target="#myCarousel2" data-slide-to="3"></li>
+      <li data-target="#myCarousel2" data-slide-to="4"></li>
+      <li data-target="#myCarousel2" data-slide-to="5"></li>
 
-						<div class="col-md-6 animate-box" data-animate-effect="fadeInBottom">
-							<div class="project" style="background-image: url(images/paul.jpg);"></div>
-						</div>
+    </ol>
 
-						<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
-							<div class="project" style="background-image: url(images/learning/javadevelopers.PNG);"></div>
-						</div>
-						
-						<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
-							<div class="project" style="background-image: url(images/charl.jpg);"></div>
-						</div>
-						
-						<div class="col-md-6 animate-box" data-animate-effect="fadeInTop">
-							<div class="project" style="background-image: url(images/learning/learningpython.PNG);"></div>
-						</div>
+    
+    <div class="carousel-inner">
+      <div class="item active">
+        <img src="images/learning/algorithms.PNG" style="width:100%;">
+      </div>
 
-						<div class="col-md-6 animate-box" data-animate-effect="fadeInBottom">
-							<div class="project" style="background-image: url(images/paul.jpg);"></div>
-						
-						</div>
-							<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
-							<div class="project" style="background-image: url(images/learning/sqlserver.PNG);"></div>
-						</div>
+      <div class="item">
+        <img src="images/learning/learningpython.PNG"  style="width:100%;">
+      </div>
+    
+      <div class="item">
+        <img src="images/learning/javadevelopers.PNG"  style="width:100%;">
+      </div>
 
+      <div class="item">
+        <img src="images/learning/sqlserver.PNG"  style="width:100%;">
+      </div>
+
+      <div class="item">
+        <img src="images/learning/datastructures.PNG"  style="width:100%;">
+      </div>
+
+    </div>
+
+    <!-- Left and right controls -->
+    <a class="left carousel-control" href="#myCarousel2" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel2" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+
+  </div>
+
+<!-- CAROUSEL 3 -->
+<h3>3 UI UX Related</h3>
+  <div class="col-md-6 animate-box" style="width: 50%" >
+  	
+  	<div id="myCarousel3" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+      <li data-target="#myCarousel3" data-slide-to="0" class="active"></li>
+      <li data-target="#myCarousel3" data-slide-to="1"></li>
+      <li data-target="#myCarousel3" data-slide-to="2"></li>
+      <li data-target="#myCarousel3" data-slide-to="3"></li>
+      
+    </ol>
+
+    
+    <div class="carousel-inner">
+      <div class="item active">
+        <img src="images/learning/uxfoundations.PNG" style="width:100%;">
+      </div>
+
+      <div class="item">
+        <img src="images/learning/uxprototyping.PNG"  style="width:100%;">
+      </div>
+    
+      <div class="item">
+        <img src="images/learning/uxaccess.PNG" style="width:100%;">
+      </div>
+
+      
+      </div>
+
+    </div>
+
+    <!-- Left and right controls -->
+    <a class="left carousel-control" href="#myCarousel3" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel3" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right"></span>
+      <span class="sr-only">Next</span>
+    </a>
+
+  </div>
 						
 </div>
 

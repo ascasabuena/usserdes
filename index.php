@@ -273,15 +273,15 @@ For the prof, when we discussed lesson I’m expecting her to give us time to do
 					<div class="row">
 						<h3 style="color: black">As of now we have ..... </h3>
 						<div class="col-md-3 text-center animate-box">
-							<span class="colorlib-counter js-counter" data-from="0" data-to="4" data-speed="5000" data-refresh-interval="50"></span>
+							<span class="colorlib-counter js-counter" data-from="0" data-to="6" data-speed="5000" data-refresh-interval="50"></span>
 							<span class="colorlib-counter-label">Reflections</span>
 						</div>
 						<div class="col-md-3 text-center animate-box">
-							<span class="colorlib-counter js-counter" data-from="0" data-to="5" data-speed="5000" data-refresh-interval="50"></span>
+							<span class="colorlib-counter js-counter" data-from="0" data-to="9" data-speed="5000" data-refresh-interval="50"></span>
 							<span class="colorlib-counter-label">Activities</span>
 						</div>
 						<div class="col-md-3 text-center animate-box">
-							<span class="colorlib-counter js-counter" data-from="0" data-to="1" data-speed="5000" data-refresh-interval="50"></span>
+							<span class="colorlib-counter js-counter" data-from="0" data-to="9" data-speed="5000" data-refresh-interval="50"></span>
 							<span class="colorlib-counter-label">Quiz</span>
 						</div>
 						<div class="col-md-3 text-center animate-box">
@@ -463,7 +463,7 @@ Other solution we suggest is to make a simple website or platform where people c
 									            <p>
 <strong>LOG-IN PAGE</strong><br><br>
 <div class="mt-5" align="center">
-<img src="images/a5-1.jpg" class="media-object" style="width:400px"><br>
+<img src="images/a5-1.jpg" class="media-object" style="width:700px"><br>
 </div>
 
 <strong>Input boxes:</strong><br>
@@ -480,7 +480,7 @@ Other solution we suggest is to make a simple website or platform where people c
 
 <strong>SIGN-UP PAGE</strong><br><br>
 <div class="mt-5" align="center">
-<img src="images/a5-2.png" class="media-object" style="width:400px"><br>
+<img src="images/a5-2.png" class="media-object" style="width:700px"><br>
 </div>
 <strong>Input boxes:</strong><br>
 •	Full name / Organization name: To register, the user needs to provide full name (if for personal use) or Organization name (if for organizational use). <br>
@@ -577,6 +577,7 @@ Shell has established his own shelter for dogs. Although there are a lot of peop
 									        <div class="panel-body">
 									            <p>
 1.	How can we improve this?<br>
+<img src="images/a7.PNG" class="media-object" style="width:300px">
 You can point out details and give comments for improvements.<br><br>
 
 To improve the passage, it is better if we extract important information from the passage then, rewrite it in a more “direct to the point” way. It is also better to check the structure and grammar of the passage to avoid confusion to the readers.<br><br>
@@ -588,7 +589,9 @@ The passage is all about an invitation to Alexandra and Robert’s after-dinner 
 
 3.	Create your own design/version of the passage.<br>
 Feel free to use any application; power point, paint, photoshop, and any other online tools.<br>
+<br>
 
+To improve the project I decided to seperate the important details with the use of white spaces. With white spaces, important details will be emphasized that can be read through skimming. I also apply some graphics that can symbolize what kind of event will happen and color combinations which is pleasing to caught attention and curiosity of the reader. 
 <img src="images/a7-1.png" class="media-object" style="width:300px">
 
 </p>	
@@ -606,6 +609,8 @@ Feel free to use any application; power point, paint, photoshop, and any other o
 									    <div id="collapseEight" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingEight">
 									        <div class="panel-body">
 									            <p>
+									            The following grid designs are the representation on how text and images should be plot in the website in a 3x4 grid. The design is based on my idea on how I want text and images should be placed in a webpage. Images is was symbolize through the use of dark colored boxes and light colored boxes for the the text area.<br><br>
+
 									            	<img src="images/a8-1.jpg" class="media-object" style="width:300px">
 									            	A PART 1
 									            	<img src="images/a8-2.jpg" class="media-object" style="width:300px">
@@ -629,18 +634,32 @@ Feel free to use any application; power point, paint, photoshop, and any other o
 									    <div id="collapseNine" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingNine">
 									        <div class="panel-body">
 									            <p>
+									            	Acitivity 9 is for designing webpage with the use of 12 column guide. 12 column guide in this activity were set as guide for the 12 combinations of text and image layout of the webpage. This also gives an idea on how to easily divide your space when coding the format or design of your webpage. For the representation, dark colored boxes represents image field and blue colored boxes are for texts fields. 
+
 									            	<img src="images/a9 (1).png" class="media-object" style="width:300px">
+									            	Figure 9.1
 									            	<img src="images/a9 (2).png" class="media-object" style="width:300px">
+									            	Figure 9.2
 									            	<img src="images/a9 (3).png" class="media-object" style="width:300px">
+									            	Figure 9.3
 									            	<img src="images/a9 (4).png" class="media-object" style="width:300px">
+									            	Figure 9.4
 									            	<img src="images/a9 (5).png" class="media-object" style="width:300px">
+									            	Figure 9.5
 									            	<img src="images/a9 (6).png" class="media-object" style="width:300px">
+									            	Figure 9.6
 									            	<img src="images/a9 (7).png" class="media-object" style="width:300px">
+									            	Figure 9.7
 									            	<img src="images/a9 (8).png" class="media-object" style="width:300px">
+									            	Figure 9.8
 									            	<img src="images/a9 (9).png" class="media-object" style="width:300px">
+									            	Figure 9.9
 									            	<img src="images/a9 (10).png" class="media-object" style="width:300px">
+									            	Figure 9.10
 									            	<img src="images/a9 (11).png" class="media-object" style="width:300px">
+									            	Figure 9.11
 									            	<img src="images/a9 (12).png" class="media-object" style="width:300px">
+									            	Figure 9.12
 
 									            	
 
@@ -725,6 +744,10 @@ Also, I start to appreciate my Github. Someone thought me how to use it and why 
 					               	<h2><a href="#">R4: Userinyerface - Worst UI Practice</a> <span>July 26, 2019</span></h2>
 					                  <p>Our first quiz was really unexpected and this is not a good quiz in the morning when your brain doesn’t sync with your hands and with your eyes, but it was fun. Taking this quiz, makes me realize that as an interface user, we really don’t read what we click. We just click what we think is right and what is the common thing for us. In the first minutes of the userinyerface I really don’t know what is happening, I just become pressured when everyone is being hype up and rushing. In the middle part, we already have a clue on how to finish the quiz and that is to read every word in the screen properly.<br><br> 
 This kind of interface will bring a lot of confusion to the user that will waste their time and the most important point, this kind of interface is prone to wrong data or inconsistency of provided data of the users. We experience that in our first we tried giving correct set of information but it causes errors so we change it to the wrong ones or whatever answer it will consider correct. From there, I can already say that we cannot design the same interface if we want to secure a user.</p>
+
+<img src="images/r4.1.jpg" style="width:300px;">
+<img src="images/r4.2.jpg" style="width:300px;">
+
 					               </div>
 					            </div>
 					         </article>
@@ -823,15 +846,7 @@ thing is to have more lectures and consultations on the projects to avoid confus
 							<h2 class="colorlib-heading animate-box">Group Project</h2>
 						</div>
 					</div>
-					<div class="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
-						<div class="col-md-12">
-							<p class="work-menu">
-							<span><a href="#" class="active">Work 1</a></span> 
-							<span><a href="#">Work 2</a></span> 
-							<span><a href="#">Work 3</a></span> 
-							<span><a href="#">Work 4</a></span></p>
-						</div>
-					</div>
+					
 					<div class="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
 						<div class="col-md-12">
 							<h3>Meet The Team...</h3>
@@ -1044,22 +1059,38 @@ thing is to have more lectures and consultations on the projects to avoid confus
     <div class="carousel-inner">
       <div class="item active">
         <img src="images/learning/algorithms.PNG" style="width:100%;">
+        <div class="carousel-caption">
+        <br>
+          <h4 style="color: black">Personal Learning #1</h4>
+        </div>
       </div>
 
       <div class="item">
         <img src="images/learning/learningpython.PNG"  style="width:100%;">
+        <div class="carousel-caption">
+          <h4 style="color: black">Personal Learning #2</h4>
+        </div>
       </div>
     
       <div class="item">
         <img src="images/learning/javadevelopers.PNG"  style="width:100%;">
+        <div class="carousel-caption">
+          <h4 style="color: black">Personal Learning #3</h4>
+        </div>
       </div>
 
       <div class="item">
         <img src="images/learning/sqlserver.PNG"  style="width:100%;">
+        <div class="carousel-caption">
+          <h4 style="color: black">Personal Learning #4</h4>
+        </div>
       </div>
 
       <div class="item">
         <img src="images/learning/datastructures.PNG"  style="width:100%;">
+        <div class="carousel-caption">
+          <h4 style="color: black">Personal Learning #5</h4>
+        </div>
       </div>
 
     </div>
@@ -1095,14 +1126,23 @@ thing is to have more lectures and consultations on the projects to avoid confus
     <div class="carousel-inner">
       <div class="item active">
         <img src="images/learning/uxfoundations.PNG" style="width:100%;">
+        <div class="carousel-caption">
+          <h4 style="color: black">UI/UX Learning #1</h4>
+        </div>
       </div>
 
       <div class="item">
         <img src="images/learning/uxprototyping.PNG"  style="width:100%;">
+        <div class="carousel-caption">
+          <h4 style="color: black">UI/UX Learning #2</h4>
+        </div>
       </div>
     
       <div class="item">
         <img src="images/learning/uxaccess.PNG" style="width:100%;">
+        <div class="carousel-caption">
+          <h4 style="color: black">UI/UX Learning #3</h4>
+        </div>
       </div>
 
       

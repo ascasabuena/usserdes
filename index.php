@@ -577,7 +577,7 @@ Shell has established his own shelter for dogs. Although there are a lot of peop
 									        <div class="panel-body">
 									            <p>
 1.	How can we improve this?<br>
-<img src="images/a7.PNG" class="media-object" style="width:300px">
+<img src="images/a7.png" class="media-object" style="width:300px">
 You can point out details and give comments for improvements.<br><br>
 
 To improve the passage, it is better if we extract important information from the passage then, rewrite it in a more “direct to the point” way. It is also better to check the structure and grammar of the passage to avoid confusion to the readers.<br><br>

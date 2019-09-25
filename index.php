@@ -576,18 +576,18 @@ Shell has established his own shelter for dogs. Although there are a lot of peop
 									    <div id="collapseSeven" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSeven">
 									        <div class="panel-body">
 									            <p>
-1.	How can we improve this?<br>
+<b>1.	How can we improve this?</b><br>
 <img src="images/a7.png" class="media-object" style="width:300px">
 You can point out details and give comments for improvements.<br><br>
 
 To improve the passage, it is better if we extract important information from the passage then, rewrite it in a more “direct to the point” way. It is also better to check the structure and grammar of the passage to avoid confusion to the readers.<br><br>
 
-2.	What would be the objective function?<br>
+<b>2.	What would be the objective function?</b><br>
 Tell me what the passage is all about. What is the objective?<br><br>
 
 The passage is all about an invitation to Alexandra and Robert’s after-dinner party. It also provides information on what is going to happen in the party and some details of the party. It aims to inform selected person about the event and how they can attend. <br><br>
 
-3.	Create your own design/version of the passage.<br>
+<b>3.	Create your own design/version of the passage.</b><br>
 Feel free to use any application; power point, paint, photoshop, and any other online tools.<br>
 <br>
 
@@ -612,13 +612,13 @@ To improve the project I decided to seperate the important details with the use 
 									            The following grid designs are the representation on how text and images should be plot in the website in a 3x4 grid. The design is based on my idea on how I want text and images should be placed in a webpage. Images is was symbolize through the use of dark colored boxes and light colored boxes for the the text area.<br><br>
 
 									            	<img src="images/a8-1.jpg" class="media-object" style="width:300px">
-									            	A PART 1
+									            	3x4 A PART 1
 									            	<img src="images/a8-2.jpg" class="media-object" style="width:300px">
-									            	A PART 2
+									            	3x4 A PART 2
 									            	<img src="images/b8-1.png" class="media-object" style="width:300px">
-									            	B PART 1
+									            	3x4 B PART 1
 									            	<img src="images/b8-2.png" class="media-object" style="width:300px">
-									            	B PART 2
+									            	3x4 B PART 2
 									            </p>	
 									        </div>
 									    </div>
@@ -1038,131 +1038,75 @@ thing is to have more lectures and consultations on the projects to avoid confus
 							<h2 class="colorlib-heading animate-box">Learning</h2>
 						</div>
 					</div>
+
+
 					
 <div class="row" style="width: 850px">
-<div class="col-md-6 animate-box" style="width: 50%">
-	<h3>5 Personal Choice</h3>
-					
-<div id="myCarousel2" class="carousel slide" data-ride="carousel">
-    <!-- Indicators -->
-    <ol class="carousel-indicators">
-      <li data-target="#myCarousel2" data-slide-to="0" class="active"></li>
-      <li data-target="#myCarousel2" data-slide-to="1"></li>
-      <li data-target="#myCarousel2" data-slide-to="2"></li>
-      <li data-target="#myCarousel2" data-slide-to="3"></li>
-      <li data-target="#myCarousel2" data-slide-to="4"></li>
-      <li data-target="#myCarousel2" data-slide-to="5"></li>
-
-    </ol>
+<div class="col-md-6 animate-box" style="background-color: pink">
+	<h3 style="text-align: center;">5 Personal Choice</h3><br>
 
     
-    <div class="carousel-inner">
-      <div class="item active">
         <img src="images/learning/algorithms.PNG" style="width:100%;">
-        <div class="carousel-caption">
-        <br>
+        
           <h4 style="color: black">Personal Learning #1</h4>
-        </div>
-      </div>
-
-      <div class="item">
+          <h5 style="color: black">Programming Foundations: Algorithms</h5>
+        
+      
         <img src="images/learning/learningpython.PNG"  style="width:100%;">
-        <div class="carousel-caption">
+        
           <h4 style="color: black">Personal Learning #2</h4>
-        </div>
-      </div>
+          <h5 style="color: black">Learning Python</h5>
+       
     
-      <div class="item">
+      
         <img src="images/learning/javadevelopers.PNG"  style="width:100%;">
-        <div class="carousel-caption">
+        
           <h4 style="color: black">Personal Learning #3</h4>
-        </div>
-      </div>
+          <h5 style="color: black">Pyhton basics for Java Developers</h5>
+        
 
-      <div class="item">
+   
         <img src="images/learning/sqlserver.PNG"  style="width:100%;">
-        <div class="carousel-caption">
+        
           <h4 style="color: black">Personal Learning #4</h4>
-        </div>
-      </div>
+          <h5 style="color: black">Learning SQL server 2017</h5>
+        
 
-      <div class="item">
+     
         <img src="images/learning/datastructures.PNG"  style="width:100%;">
-        <div class="carousel-caption">
+        <
           <h4 style="color: black">Personal Learning #5</h4>
-        </div>
-      </div>
+          <h5 style="color: black">Programming Foundations: Data Structures</h5>
+        
 
     </div>
 
-    <!-- Left and right controls -->
-    <a class="left carousel-control" href="#myCarousel2" data-slide="prev">
-      <span class="glyphicon glyphicon-chevron-left"></span>
-      <span class="sr-only">Previous</span>
-    </a>
-    <a class="right carousel-control" href="#myCarousel2" data-slide="next">
-      <span class="glyphicon glyphicon-chevron-right"></span>
-      <span class="sr-only">Next</span>
-    </a>
-  </div>
 
-  </div>
-
+   
+<div class="col-md-6 animate-box" style="background-color: lightblue">
 <!-- CAROUSEL 3 -->
-<h3>3 UI UX Related</h3>
-  <div class="col-md-6 animate-box" style="width: 50%" >
-  	
-  	<div id="myCarousel3" class="carousel slide" data-ride="carousel">
-    <!-- Indicators -->
-    <ol class="carousel-indicators">
-      <li data-target="#myCarousel3" data-slide-to="0" class="active"></li>
-      <li data-target="#myCarousel3" data-slide-to="1"></li>
-      <li data-target="#myCarousel3" data-slide-to="2"></li>
-      <li data-target="#myCarousel3" data-slide-to="3"></li>
-      
-    </ol>
-
-    
-    <div class="carousel-inner">
-      <div class="item active">
+<h3 style="text-align: center;">3 UI UX Related</h3><br>
+ 
         <img src="images/learning/uxfoundations.PNG" style="width:100%;">
-        <div class="carousel-caption">
+        
           <h4 style="color: black">UI/UX Learning #1</h4>
-        </div>
-      </div>
+          <h5 style="color: black">UX Foundations: Style Guide and Design Systems</h5>
 
-      <div class="item">
         <img src="images/learning/uxprototyping.PNG"  style="width:100%;">
-        <div class="carousel-caption">
+        
           <h4 style="color: black">UI/UX Learning #2</h4>
-        </div>
-      </div>
-    
-      <div class="item">
+          <h5 style="color: black">UX Foundations: Prototyping</h5>
+
         <img src="images/learning/uxaccess.PNG" style="width:100%;">
-        <div class="carousel-caption">
+        
           <h4 style="color: black">UI/UX Learning #3</h4>
-        </div>
+          <h5 style="color: black">UX Foudations: Accessibility</h5>
+
       </div>
-
-      
-      </div>
-
-    </div>
-
-    <!-- Left and right controls -->
-    <a class="left carousel-control" href="#myCarousel3" data-slide="prev">
-      <span class="glyphicon glyphicon-chevron-left"></span>
-      <span class="sr-only">Previous</span>
-    </a>
-    <a class="right carousel-control" href="#myCarousel3" data-slide="next">
-      <span class="glyphicon glyphicon-chevron-right"></span>
-      <span class="sr-only">Next</span>
-    </a>
 
   </div>
 						
-</div>
+
 
 						
 
